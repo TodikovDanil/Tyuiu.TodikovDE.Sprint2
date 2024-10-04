@@ -9,7 +9,7 @@ namespace Tyuiu.TodikovDE.Sprint2.Task0.V29
             DataService ds = new DataService();
 
 
-            Console.Title = "Спринт #1 | Выполнил: Тодиков Д. Э. | ИСТНб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Тодиков Д. Э. | ИСТНб-24-1";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спритн #2                                                              *");
             Console.WriteLine("* Тема: Создания итогого решения по спринту                              *");
