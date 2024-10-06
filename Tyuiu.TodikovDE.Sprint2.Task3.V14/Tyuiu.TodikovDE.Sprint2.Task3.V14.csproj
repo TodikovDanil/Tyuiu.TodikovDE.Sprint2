@@ -10,11 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Program.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.TodikovDE.Sprint2.Task2.V15.Lib\Tyuiu.TodikovDE.Sprint2.Task2.V15.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.TodikovDE.Sprint2.Task3.V14.Lib\Tyuiu.TodikovDE.Sprint2.Task3.V14.Lib.csproj" />
   </ItemGroup>
 
 </Project>
