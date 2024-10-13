@@ -9,4 +9,8 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.TodikovDE.Sprint2.Task5.V3.Lib\Tyuiu.TodikovDE.Sprint2.Task5.V3.Lib.csproj" />
+  </ItemGroup>
+
 </Project>
